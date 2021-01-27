@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm a *fast* learner, I have _strong_ determination, and _I *dislike* wiritng lists_.
